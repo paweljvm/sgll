@@ -1,4 +1,4 @@
-SGL - Simple Go Logging
+SGLL - Simple Go Logging Library
 
 Easy to use thread safe go logging library.
 Features:

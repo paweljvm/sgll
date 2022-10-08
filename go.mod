@@ -1,3 +1,3 @@
-module github.com/paweljvm/sgl
+module github.com/paweljvm/sgll
 
 go 1.18

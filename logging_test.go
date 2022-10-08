@@ -8,7 +8,7 @@ import (
 	"sync"
 	"testing"
 
-	logging "github.com/paweljvm/sgl"
+	logging "github.com/paweljvm/sgll"
 )
 
 func TestLogging(t *testing.T) {
