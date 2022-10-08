@@ -8,8 +8,8 @@ Features:
 
 Example
 `
-    import logging "github.com/paweljvm/sgl"
 
+    import logging "github.com/paweljvm/sgl"
     func main() {
         // start logging to file
         // if you don't call that you will log only to the console
@@ -23,4 +23,5 @@ Example
         logging.Error("This is error: {} ", error.Error())
         logging.Error("Debug {} {} {}", 1, 2, 3)      
     }
+
 `
